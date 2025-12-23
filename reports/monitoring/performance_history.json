@@ -1,0 +1,90 @@
+[
+    {
+        "timestamp": "2025-12-23T22:50:24.476592",
+        "accuracy": 0.92,
+        "precision": 0.6363636363636364,
+        "recall": 1.0,
+        "roc_auc": 1.0,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.477257",
+        "accuracy": 0.94,
+        "precision": 0.9032258064516129,
+        "recall": 1.0,
+        "roc_auc": 0.9918831168831168,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.485859",
+        "accuracy": 0.96,
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "roc_auc": 1.0,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.490448",
+        "accuracy": 0.98,
+        "precision": 1.0,
+        "recall": 0.9655172413793104,
+        "roc_auc": 0.9983579638752051,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.495254",
+        "accuracy": 0.96,
+        "precision": 0.9666666666666667,
+        "recall": 0.9666666666666667,
+        "roc_auc": 0.995,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.500538",
+        "accuracy": 0.96,
+        "precision": 0.9642857142857143,
+        "recall": 0.9642857142857143,
+        "roc_auc": 0.9886363636363636,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.504401",
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "roc_auc": 1.0,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.508517",
+        "accuracy": 0.98,
+        "precision": 0.9722222222222222,
+        "recall": 1.0,
+        "roc_auc": 0.9980952380952381,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.515960",
+        "accuracy": 0.98,
+        "precision": 1.0,
+        "recall": 0.9736842105263158,
+        "roc_auc": 1.0,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.516963",
+        "accuracy": 0.92,
+        "precision": 1.0,
+        "recall": 0.9,
+        "roc_auc": 1.0,
+        "performance_degraded": false
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.524472",
+        "accuracy": 0.96,
+        "precision": 0.9743589743589743,
+        "recall": 0.9743589743589743,
+        "roc_auc": 0.9953379953379953,
+        "performance_degraded": false
+    }
+]

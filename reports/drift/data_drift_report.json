@@ -1,0 +1,152 @@
+{
+    "mean radius": {
+        "ks_statistic": 0.08677889803595104,
+        "p_value": 0.4437010600265455,
+        "drift_detected": false
+    },
+    "mean texture": {
+        "ks_statistic": 0.05818148182406808,
+        "p_value": 0.8837925298807062,
+        "drift_detected": false
+    },
+    "mean perimeter": {
+        "ks_statistic": 0.09548916227299356,
+        "p_value": 0.32877726748276365,
+        "drift_detected": false
+    },
+    "mean area": {
+        "ks_statistic": 0.0884901180896001,
+        "p_value": 0.41964699181355686,
+        "drift_detected": false
+    },
+    "mean smoothness": {
+        "ks_statistic": 0.06550427034193568,
+        "p_value": 0.781787556825593,
+        "drift_detected": false
+    },
+    "mean compactness": {
+        "ks_statistic": 0.0729812228286005,
+        "p_value": 0.6599125512009366,
+        "drift_detected": false
+    },
+    "mean concavity": {
+        "ks_statistic": 0.07418370178521876,
+        "p_value": 0.642703477315836,
+        "drift_detected": false
+    },
+    "mean concave points": {
+        "ks_statistic": 0.08852095088335954,
+        "p_value": 0.4190247276772475,
+        "drift_detected": false
+    },
+    "mean symmetry": {
+        "ks_statistic": 0.060463108562266825,
+        "p_value": 0.8536996694464731,
+        "drift_detected": false
+    },
+    "mean fractal dimension": {
+        "ks_statistic": 0.05454321216045386,
+        "p_value": 0.9234707751664797,
+        "drift_detected": false
+    },
+    "radius error": {
+        "ks_statistic": 0.058906052477414976,
+        "p_value": 0.8734170215934769,
+        "drift_detected": false
+    },
+    "texture error": {
+        "ks_statistic": 0.11662504239509142,
+        "p_value": 0.13849987183160176,
+        "drift_detected": false
+    },
+    "perimeter error": {
+        "ks_statistic": 0.05876730490549749,
+        "p_value": 0.8754359726276019,
+        "drift_detected": false
+    },
+    "area error": {
+        "ks_statistic": 0.06064810532482348,
+        "p_value": 0.8507796553002822,
+        "drift_detected": false
+    },
+    "smoothness error": {
+        "ks_statistic": 0.061002682453057074,
+        "p_value": 0.8451583457264948,
+        "drift_detected": false
+    },
+    "compactness error": {
+        "ks_statistic": 0.04254925538803071,
+        "p_value": 0.9920457237006455,
+        "drift_detected": false
+    },
+    "concavity error": {
+        "ks_statistic": 0.05215367064409706,
+        "p_value": 0.9437385752748944,
+        "drift_detected": false
+    },
+    "concave points error": {
+        "ks_statistic": 0.06581259827953011,
+        "p_value": 0.7760030364776155,
+        "drift_detected": false
+    },
+    "symmetry error": {
+        "ks_statistic": 0.08856720007399871,
+        "p_value": 0.4180897668256952,
+        "drift_detected": false
+    },
+    "fractal dimension error": {
+        "ks_statistic": 0.06260598772854808,
+        "p_value": 0.823017155597118,
+        "drift_detected": false
+    },
+    "worst radius": {
+        "ks_statistic": 0.06943545154626461,
+        "p_value": 0.7181328711305393,
+        "drift_detected": false
+    },
+    "worst texture": {
+        "ks_statistic": 0.06038602657786822,
+        "p_value": 0.85491597934572,
+        "drift_detected": false
+    },
+    "worst perimeter": {
+        "ks_statistic": 0.08039650972774644,
+        "p_value": 0.5373597603610044,
+        "drift_detected": false
+    },
+    "worst area": {
+        "ks_statistic": 0.07820738137082602,
+        "p_value": 0.5744787054076029,
+        "drift_detected": false
+    },
+    "worst smoothness": {
+        "ks_statistic": 0.09507291955724108,
+        "p_value": 0.33518931756153997,
+        "drift_detected": false
+    },
+    "worst compactness": {
+        "ks_statistic": 0.06024727900595073,
+        "p_value": 0.8570924269096347,
+        "drift_detected": false
+    },
+    "worst concavity": {
+        "ks_statistic": 0.05190700829402152,
+        "p_value": 0.9459704209610107,
+        "drift_detected": false
+    },
+    "worst concave points": {
+        "ks_statistic": 0.09536583109795578,
+        "p_value": 0.33097690215892667,
+        "drift_detected": false
+    },
+    "worst symmetry": {
+        "ks_statistic": 0.08295563160978016,
+        "p_value": 0.502386943584132,
+        "drift_detected": false
+    },
+    "worst fractal dimension": {
+        "ks_statistic": 0.07248789812844941,
+        "p_value": 0.6702580394179627,
+        "drift_detected": false
+    }
+}

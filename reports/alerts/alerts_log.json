@@ -1,0 +1,56 @@
+[
+    {
+        "timestamp": "2025-12-23T18:47:04.804501",
+        "level": "INFO",
+        "source": "data_drift",
+        "message": "No significant data drift detected."
+    },
+    {
+        "timestamp": "2025-12-23T18:47:04.817377",
+        "level": "INFO",
+        "source": "concept_drift",
+        "message": "No concept drift detected."
+    },
+    {
+        "timestamp": "2025-12-23T18:47:04.843697",
+        "level": "INFO",
+        "source": "performance_monitor",
+        "message": "Model performance within acceptable range."
+    },
+    {
+        "timestamp": "2025-12-23T22:47:11.857540",
+        "level": "INFO",
+        "source": "data_drift",
+        "message": "No significant data drift detected."
+    },
+    {
+        "timestamp": "2025-12-23T22:47:11.857540",
+        "level": "INFO",
+        "source": "concept_drift",
+        "message": "No concept drift detected."
+    },
+    {
+        "timestamp": "2025-12-23T22:47:11.857540",
+        "level": "INFO",
+        "source": "performance_monitor",
+        "message": "Model performance within acceptable range."
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.703656",
+        "level": "INFO",
+        "source": "data_drift",
+        "message": "No significant data drift detected."
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.703656",
+        "level": "INFO",
+        "source": "concept_drift",
+        "message": "No concept drift detected."
+    },
+    {
+        "timestamp": "2025-12-23T22:50:24.718847",
+        "level": "INFO",
+        "source": "performance_monitor",
+        "message": "Model performance within acceptable range."
+    }
+]
