@@ -149,27 +149,6 @@ Key thresholds can be adjusted in `src/config.py` or respective modules:
 | `CRITICAL_ALERT_THRESHOLD` | `config.py` | 1 | Critical alerts before retraining |
 | `LOOKBACK_HOURS` | `config.py` | 24 | Time window for alert analysis |
 
-##  Future Improvements
-
-### High Priority
-- [ ] **Real Data Integration** - Replace sklearn demo dataset with real data pipelines
-- [ ] **Database Storage** - Use PostgreSQL/MongoDB instead of JSON files for scalability
-- [ ] **Scheduled Monitoring** - Add APScheduler or Celery for automated periodic checks
-- [ ] **Email/Slack Notifications** - Send alerts via email, Slack, or PagerDuty
-
-### Medium Priority
-- [ ] **Model Registry** - Integrate MLflow for model versioning and experiment tracking
-- [ ] **Docker Support** - Add Dockerfile and docker-compose for containerization
-- [ ] **CI/CD Pipeline** - GitHub Actions for automated testing and deployment
-- [ ] **Feature Store** - Integrate with Feast or similar for feature management
-
-### Nice to Have
-- [ ] **Advanced Drift Methods** - Add PSI, Chi-Square, Jensen-Shannon divergence
-- [ ] **A/B Testing Support** - Compare multiple model versions in production
-- [ ] **Interactive Charts** - Replace static charts with Plotly for better UX
-- [ ] **Authentication** - Add JWT auth for API endpoints
-- [ ] **Prometheus Metrics** - Export metrics for Grafana dashboards
-- [ ] **Kubernetes Deployment** - Helm charts for K8s deployment
 
 ##  License
 
